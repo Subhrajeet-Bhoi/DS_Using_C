@@ -139,12 +139,13 @@ Elements of arr2: 10 20 30 40 50
 If you have any doubts or queries regarding this code or arrays in C, feel free to reach out:
 
 <p align="center">
-  <img src="/assets/Sir.jpg" alt="Sir's Photo" width="150" style="border-radius:50%">
+  <img src="../assets/Sir.jpg" alt="Sir's Photo" width="150" style="border-radius:1rem">
 </p>
 
 **👨‍🏫 Asutosh sir** <br>
 **📱 Contact Number:** +91-9937869696  
-**📧 Email:** sir@example.com  
-**📸 Instagram:** [@sir_insta_handle](https://instagram.com/sir_insta_handle)
+**📧 Email:** No idea <BR>
+**📸 Instagram:** loading ⏳<BR>
 
+---
 ✨ *Made with ❤️ by Subhrajeet Bhoi*
