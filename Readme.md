@@ -80,7 +80,7 @@ Here’s a quick walkthrough of showing what is DSA **Why it is Important** the 
 
 ## 📸 Repo Banner  
 
-![Data Structures](/assets/Repo-image.jpg)  
+![Data Structures](/assets/Repo-Image.jpg)  
 
 ---
 
