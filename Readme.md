@@ -62,21 +62,17 @@
 🌐 **07_Graph**  
 🕸️ Adjacency Matrix  
 🕸️ Adjacency List  
-
-🔁 **08_Recursion**  
-♻️ Factorial of a Number  
-♻️ Fibonacci Series  
+ 
 
 
 
 
----
 
 ## 🎥 Demo / Walkthrough Video  
 
-Here’s a quick walkthrough of the repository showing how to **compile and run** the programs, along with a demo of **Stack, Queue, Linked List, and Tree implementations** in action.  
+Here’s a quick walkthrough of showing what is DSA **Why it is Important** the programs, along with a demo of **Stack, Queue, Linked List, and Tree implementations** in action.  
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=-iqN6E67HpY)  
+[![Watch the video](/assets/Image.png)](https://www.youtube.com/watch?v=-iqN6E67HpY)  
 
 👉 Click the thumbnail above to watch the demo on YouTube.  
 
@@ -84,7 +80,7 @@ Here’s a quick walkthrough of the repository showing how to **compile and run*
 
 ## 📸 Repo Banner  
 
-![Data Structures](Repo-image.jpg)  
+![Data Structures](/assets/Repo-image.jpg)  
 
 ---
 
