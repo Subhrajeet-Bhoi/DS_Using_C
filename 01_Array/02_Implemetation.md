@@ -134,18 +134,6 @@ Elements of arr2: 10 20 30 40 50
 - [GeeksforGeeks: Arrays in C](https://www.geeksforgeeks.org/arrays-in-c-cpp/)
 - [TutorialsPoint: C Arrays](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
 
-## 📞 Contact for Queries
-
-If you have any doubts or queries regarding this code or arrays in C, feel free to reach out:
-
-<p align="center">
-  <img src="../assets/Sir.jpg" alt="Sir's Photo" width="150" style="border-radius:1rem">
-</p>
-
-**👨‍🏫 Asutosh sir** <br>
-**📱 Contact Number:** +91-9937869696  
-**📧 Email:** No idea <BR>
-**📸 Instagram:** loading ⏳<BR>
 
 ---
 ✨ *Made with ❤️ by Subhrajeet Bhoi*
